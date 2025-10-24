@@ -1,0 +1,11 @@
+# Requirements for makemore - Andrej Karpathy's character-level language model
+# This project builds bigram character-level language models for name generation
+
+# Core dependencies
+numpy>=1.21.0
+torch>=1.11.0
+matplotlib>=3.5.0
+
+# For Jupyter notebook environment
+jupyter>=1.0.0
+ipykernel>=6.0.0
